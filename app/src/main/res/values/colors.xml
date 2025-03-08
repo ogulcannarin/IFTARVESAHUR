@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_color_white">#FFFFFF</color> <!-- Beyaz -->
+    <color name="text_color_orange">#FF9800</color> <!-- Turuncu -->
+    <color name="text_color_black">#000000</color> <!-- Siyah -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#5C6BC0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="sahurColor">#283593</color>
+    <color name="iftarColor">#C2185B</color>
+    <color name="countdownColor">#00796B</color>
+    <color name="progressColor">#FFFFFF</color>
+</resources>
